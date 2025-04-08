@@ -3,6 +3,7 @@ html
     color: red;
 }
 
-#projects li {
+#projects li 
+{
     float: left;
 }
